@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'digimonbasicmedium';
     src: url('https://github.com/jairvides/digivice/blob/main/assets/fonts/digimonbasic-webfont.woff2') format('woff2'),
-        url('/assets/fonts/digimonbasic-webfont.woff') format('woff');
+        url('https://github.com/jairvides/digivice/blob/main/assets/fonts/digimonbasic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
